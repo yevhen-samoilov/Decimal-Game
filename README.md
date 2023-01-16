@@ -1,2 +1,0 @@
-# Decimal-Game
-Decimal Game
